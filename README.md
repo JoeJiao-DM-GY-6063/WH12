@@ -18,7 +18,8 @@ Message in Serial Monitor: Step 1 completed: Button 1 pressed.
 Rotate the potentiometer until its value is between 450 and 550.
 If successful, the system moves to Step 3.
 Message in Serial Monitor: Step 2 completed: Potentiometer adjusted to middle.
-Step 3: Press Button 2 to complete the sequence!
+
+3: Press Button 2 to complete the sequence!
 
 If successful:
 The green LED lights up for 1s
