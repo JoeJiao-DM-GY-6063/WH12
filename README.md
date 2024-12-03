@@ -1,7 +1,5 @@
 # WH12
-This assignment is hard this week...
-I admit that I did discuss and complete the assignment with other classmates.T T
- 
+
 This Arduino project demonstrates a simple three-step interaction system. 
 The system uses buttons, a potentiometer, and LEDs to create an interactive sequence. 
 Follow the steps to complete the sequence and get feedback through LEDs
